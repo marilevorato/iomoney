@@ -1,0 +1,11 @@
+.saldo {
+	font-size: 20px;
+}
+
+.positivo {
+	color: blue;
+}
+
+.negativo {
+	color: red;
+}
